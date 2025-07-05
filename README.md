@@ -14,7 +14,8 @@ CARBON_EMISSION_PREDICTION/
 ├── cleaned_climate_data.csv # Cleaned dataset ready for modeling
 ├── climate_change_download_0.csv # Raw dataset from World Bank
 ├── forecasting_co2_emmision.pkl # Trained Random Forest model
-├── *.png # All graphs and visual outputs
+├── images/
+    ├── *.png # All graphs and visual outputs
 
 ```
 ---
